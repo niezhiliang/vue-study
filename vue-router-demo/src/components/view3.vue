@@ -1,0 +1,15 @@
+<template>
+    <div>
+      this is Baz
+    </div>
+</template>
+
+<script>
+    export default {
+        name: "view3"
+    }
+</script>
+
+<style scoped>
+
+</style>
